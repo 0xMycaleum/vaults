@@ -1,5 +1,6 @@
-**#Testing Platform**
-*This is to experiment with a known stable repo.
+# Testing Grounds
+* This is to experiment with a known stable repo.
+* The formatting of this document seem to be embedded somewhere for default style. A simple # creates a new bold header and a * signifies a new bullet to the mix. How will these comment out?
 
 # QuickSwap
 * All Quickswap vaults are boosted.
